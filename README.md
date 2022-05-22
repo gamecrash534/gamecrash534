@@ -1,18 +1,25 @@
+# ***Hello there! I'm game.crash aka. system_crash404***
+---
+# *About me*
+*From Germany*
+> 👩‍💻I like to code random stuff with various Coding Languanges
 
-# WELCOME!
+> 🎮I like to play games 
 
-Hi, i'm ***game.crash***!
-I'm really interested in *coding*, thats why you are seeing this!
+> 🖌 Sometimes i draw some stuff
 
-I also like to play *games* (Roblox, Minecraft)
+### My Friends know me as a 'Computer Nerd' since i also  know a lot of computers.
+---
+# Conding Languages i know
+#### JavaScript, HTML [not even a coding lang], CSS, C#, Lua, Luau [Roblox Lua], Python [a bit]
+---
+# Stats
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=systemcrash404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemcrash404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
 
-The current project on which i work is Wildlands Correctional Facility on Roblox. [Wildlands Correctional Facility](https://www.roblox.com/groups/13048918/Wildlands-Correctional-Facility#!/about)
-
-    
 
 
 
-<!---
-systemcrash404/systemcrash404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
