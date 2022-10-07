@@ -14,8 +14,9 @@
 #### JavaScript, HTML [not even a coding lang], CSS, C#, Lua, Luau [Roblox Lua], Python [a bit]
 ---
 # Stats
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=systemcrash404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemcrash404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ [![Main](https://github-readme-stats.vercel.app/api?username=systemcrash404&include_all_commits=true&count_private=true&theme=&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40))](https://github.com/systemcrash404)
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=systemcrash404&show_icons=true&locale=en&layout=compact&theme=dark)
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=systemcrash404&theme=react-dark&hide_border=true&area=true)
  
  ---
  
