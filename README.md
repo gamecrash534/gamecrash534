@@ -1,7 +1,12 @@
 # ***game.crash (aka. system_crash)***
 #### Hello and welcome to my GitHub Profile! 👋
 ---
-### About 
+## About 
+
+What am I currently doing?
+- ⚙ I currently have multiple Projects running, including some .Net Applications being released soon.
+
+
 Two of my probably most loved hobbies would be coding and gaming. Atleast thats what I would say.
 So, what languages do I code with and what do I play for games?
 Here is a small table, down there will be a better overview for coding:
@@ -55,7 +60,15 @@ Here is a small table, down there will be a better overview for coding:
 
 --- 
 
-### Infos and Details
+## Infos and Details
+
+### Social links:
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727862418155372614)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://game.crash534@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/game_crash444)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gamecrash12)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@game.crash404)
 
 [![Website systemcrash404.github.io](https://img.shields.io/website-up-down-green-red/https/systemcrash404.github.io.svg)](https://systemcrash404.github.io/)
 (it has a copyright btw)
