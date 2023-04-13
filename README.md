@@ -1,20 +1,21 @@
-# ***Hello there! I'm game.crash aka. system_crash404***
+# ***game.crash (aka. system_crash)***
+#### Hello and welcome to my GitHub Profile!
 ---
-# *About me*
-I like to code and test/play around with various stuff, ranging from games to music.
-Another hobby of mine is to break games!
+### About 
+Two of my probably most loved hobbies would be coding and gaming. Atleast thats what I would say.
+So, what languages do I code with and what do I play for games?
+Here is a small table, down there will be a better overview for coding:
+|Languages| Games |
+|--|--|
+| HTML5, CSS3, JS | Minecraft 
+|C# | Satisfactory
+| Python, Lua[-u]| CSGO // TF2
+| Arduino lang (between C++ and C)| Asphalt 9: Legends
 ---
-# Conding Languages i know
-#### JavaScript, HTML [not even a coding lang], CSS, C#, Lua, Luau [Roblox Lua], Python [a bit], The Mix of C and C++ Arduino uses
----
-# Stats
- [![Main](https://github-readme-stats.vercel.app/api?username=systemcrash404&include_all_commits=true&count_private=true&theme=&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40))](https://github.com/systemcrash404)
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=systemcrash404&show_icons=true&locale=en&layout=compact&theme=dark)
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=systemcrash404&theme=react-dark&hide_border=true&area=true)
- 
- ---
- 
-
-
-
-
+###  Coding
+<details>
+		<summary>Languages: </summary>
+		![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+        ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+		
+</details>
