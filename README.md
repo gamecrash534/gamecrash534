@@ -4,7 +4,7 @@
 ## About 
 
 What am I currently doing?
-- ⚙ I currently have multiple Projects running, including some .Net Applications being released soon.
+- ⚙ I currently have multiple Projects running, primarily C# .net projects.
 
 
 Two of my probably most loved hobbies would be coding and gaming. Atleast thats what I would say.
