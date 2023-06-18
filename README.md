@@ -41,12 +41,12 @@ Games I play:
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
-[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](arduino.cc)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org)
@@ -55,8 +55,8 @@ Games I play:
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](arduino.cc)
-[![RasperryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](www.raspberrypi.com)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://arduino.cc)
+[![RasperryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com)
 
 
 </details>
@@ -68,14 +68,14 @@ Games I play:
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://github.io)
 
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
 
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](virtualbox.org)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org)
 
 </details>
 
@@ -90,7 +90,7 @@ Games I play:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/game_crash444)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gamecrash12)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@game.crash404)
-[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)]()
+[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)](https://www.teamspeak.com/)
 
 [![Website systemcrash404.github.io](https://img.shields.io/website-up-down-green-red/https/systemcrash404.github.io.svg)](https://systemcrash404.github.io/)
 
@@ -98,12 +98,16 @@ Games I play:
 <details>
 <summary>GitHub Stats</summary>
 
-[![game.crash's github stats](https://github-readme-stats.vercel.app/api?username=systemcrash404&theme=synthwave#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+![game.crash's github stats](https://github-readme-stats.vercel.app/api?username=systemcrash404&theme=synthwave#gh-dark-mode-only)
 
-[![game.crash's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemcrash404&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![game.crash's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemcrash404&theme=blue-green)
 
-[![game.crash's github streak](https://github-readme-streak-stats.herokuapp.com/?user=systemcrash404&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![game.crash's github streak](https://github-readme-streak-stats.herokuapp.com/?user=systemcrash404&theme=blue-green)
+
 </details>
+---
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=systemcrash404&theme=github_dark)
 
 ---
 
