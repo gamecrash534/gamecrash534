@@ -8,14 +8,15 @@ What am I currently doing?
 
 
 Two of my probably most loved hobbies would be coding and gaming. Atleast thats what I would say.
-So, what languages do I code with and what do I play for games?
-Here is a small table, down there will be a better overview for coding:
-|Languages| Games |
-|--|--|
-| HTML5, CSS3, JS | Minecraft 
-|C# | Satisfactory
-| Python, Lua[-u]| CSGO // TF2
-| C++ | Asphalt 9: Legends
+A detailed list of Languages I use is under the #### Coding tab
+Games I play:
+
+> Minecraft
+> Satisfactory
+> CSGO
+> TF2
+
+
 ---
 ###  Coding :
 
@@ -37,7 +38,7 @@ Here is a small table, down there will be a better overview for coding:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-(Inserts Arduino Ide here) <- Yep, I havent found any Badge here :O
+(Inserts Arduino Ide here)
 
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
