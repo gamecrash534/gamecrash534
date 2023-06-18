@@ -11,10 +11,13 @@ Two of my probably most loved hobbies would be coding and gaming. Atleast thats 
 A detailed list of Languages I use is under the #### Coding tab
 Games I play:
 
-> Minecraft
-> Satisfactory
-> CSGO
-> TF2
+#### Minecraft
+
+#### Satisfactory
+
+#### CSGO
+
+#### TF2
 
 
 ---
