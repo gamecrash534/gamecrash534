@@ -53,14 +53,7 @@ Games I play:
 
 
 </details>
-<details>
-<summary>Other Stuff...</summary>
-... To fill out this Page :)
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-</details>
 
 --- 
 
