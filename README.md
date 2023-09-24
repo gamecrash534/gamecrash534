@@ -87,6 +87,7 @@ Games I play:
 ### Social links:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727862418155372614)
+
 Rest shouldnt be important
 
 [![Website systemcrash404.github.io](https://img.shields.io/website-up-down-green-red/https/systemcrash404.github.io.svg)](https://systemcrash404.github.io/)
