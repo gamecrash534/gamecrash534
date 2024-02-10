@@ -8,17 +8,8 @@ What am I currently doing?
 
 
 Two of my probably most loved hobbies would be coding and gaming. Atleast thats what I would say.
-A detailed list of Languages I use is under the Coding tab
+A more detailed list of Languages I use is under the Coding tab
 
-Games I play:
-
-#### Minecraft
-
-#### Satisfactory
-
-#### CSGO
-
-#### TF2
 
 
 ---
