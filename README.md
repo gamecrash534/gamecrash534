@@ -1,4 +1,4 @@
-# ***game.crash (aka. system_crash)***
+# ***game.crash (aka. wifi.crash)***
 #### Hello and welcome to my GitHub Profile! 👋
 ---
 ## About 
