@@ -4,7 +4,7 @@
 I am a student from germany, who likes to play various games and program around in his free time. And sometimes, instead of spaghetti code, there may be some good stuff that comes out.
 
 ---
-###  Programming-Related, to fill up the README:
+###  Programming-Related and Tools:
 
 <details>
 <summary>Languages</summary>
