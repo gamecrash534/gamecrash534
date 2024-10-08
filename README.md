@@ -1,7 +1,7 @@
 # ***game.crash***
 #### Hello and welcome to my GitHub Profile! 👋
 
-I am a student from germany, who likes to play various games and program around in his free time. And sometimes, instead of spaghetti code, there may be some good stuff that comes out.
+I am a student from Germany, who likes to play various games and program around in his free time. And sometimes, instead of spaghetti code, there may be some good stuff that comes out.
 
 ---
 ###  Programming-Related and Tools:
