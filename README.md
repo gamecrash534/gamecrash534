@@ -8,7 +8,7 @@ I am a student from Germany, who likes to play various games and program around 
 
 <details>
 <summary>Languages</summary>
-Yes, with Markup Languages includedAchso, hast du nicht vorhin gemeint, das wäre RAM? ^^
+Yes, with Markup Languages included
 
 ![Hell-Java](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
