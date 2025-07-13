@@ -44,6 +44,8 @@ To contact me, the best way is usually per:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727862418155372614)
 
+<sub>(or via [Mail](mailto:me@gamecrash.xyz))</sub>
+
 A brief summary of my (in)activity:
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamecrash534&theme=github_dark)
