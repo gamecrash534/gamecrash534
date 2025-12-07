@@ -39,11 +39,9 @@ Yes, with Markup Languages included
 
 ## Infos and Details
 
-To contact me, the best way is usually per:
+To contact me, the best way is usually via 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727862418155372614)
-
-<sub>(or via [Mail](mailto:me@gamecrash.xyz))</sub>
 
 A brief summary of my (in)activity:
 
